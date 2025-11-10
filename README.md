@@ -14,8 +14,8 @@
 - 10/24(金) 【中園】: 3章 後半 ([slides](./materials/material_chap3_part2.pdf), [recording](https://cern.zoom.us/rec/play/qVw3vxkYrqedtpfFeNr_oNQZMBphH0W-J78ROj9Rmxlmhodopi8dcLCRjqSY9zbMilglG0HPfYipt9ig.RL_d_puTEPGedlMf?autoplay=true&startTime=1761267915000) - Passcode: 7GVYf&t4)
 - 10/31(金) 【中田】: 4章 前半 ([materials](https://github.com/KU-HEQ/seminar_Ekin/tree/main/materials/chapter4), [recording](https://cern.zoom.us/rec/play/wFWIgEgPy75ewaBH6UY2icTQxf_E29y3bm_xWCPDqcqfQln9EUGqfji8r2MfRSsROV6iKmvaMd7mZGWT.Wj1Ot98MOy1ufujH?autoplay=true&startTime=1761876396000) - Passcode: QpcQ4c*h)
 - 11/07(金) 【中田】: 4章 後半 ([materials](https://github.com/KU-HEQ/seminar_Ekin/tree/main/materials/chapter4), [recording](https://eu01web.zoom.us/launch/csd?origin=https%3A%2F%2Fcern.zoom.us%2Frecording%2Fdetail%3Fmeeting_id%3DxYDgh50cRVK0%252FVcaPlwbAA%253D%253D&option=xYDgh50cRVK0%2FVcaPlwbAA%3D%3D) - Passcode : =6@u@ei2)
-- 11/14(金) 【中村】: 6章 6.4まで
-- 11/21(金) 【河井】: 6章 6.5以降
-- 11/28(金) 【青柳】: 7章 7.3はスキップ
-- 12/12(金) 【中村】: 8章 8.3はスキップ
-- 12/19(金) 【渡邊】: 5章 5.4まで+5.5.6
+- 11/21(金) 【中村】: 6章 6.4まで
+- 11/28(金) 【河井】: 6章 6.5以降
+- 12/12(金) 【青柳】: 7章 7.3はスキップ
+- 12/19(金) 【中村】: 8章 8.3はスキップ
+- 12/26?(金) 【渡邊】: 5章 5.4まで+5.5.6
