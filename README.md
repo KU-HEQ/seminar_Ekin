@@ -16,8 +16,8 @@
 - 11/10(月) 【中田】: 4章 後半 ([materials](https://github.com/KU-HEQ/seminar_Ekin/tree/main/materials/chapter4), [recording](https://eu01web.zoom.us/launch/csd?origin=https%3A%2F%2Fcern.zoom.us%2Frecording%2Fdetail%3Fmeeting_id%3DxYDgh50cRVK0%252FVcaPlwbAA%253D%253D&option=xYDgh50cRVK0%2FVcaPlwbAA%3D%3D) - Passcode : =6@u@ei2)
 - (11/14は冷却準備のためスキップ)
 - 11/21(金) 【中村】: 6章 6.4まで ([slides](./materials/material_chap6_part1.pdf), [recording](https://eu01web.zoom.us/launch/csd?origin=https%3A%2F%2Fcern.zoom.us%2Frecording%2Fdetail%3Fmeeting_id%3DUnVJf9soTDeMv4PWCjjzHA%253D%253D&option=UnVJf9soTDeMv4PWCjjzHA%3D%3D) - Passcode: $T!mKk44)
-- 11/28(金) 【河井】: 6章 6.5以降
-- (12/5はChicago/CRC測定のためスキップ)
-- 12/12(金) 【青柳】: 7章 7.3はスキップ
-- 12/19(金) 【中村】: 8章 8.3はスキップ
-- 12/26?(金) 【渡邊】: 5章 5.4まで+5.5.6 (日程は未確認。来年でもよいと思う)
+- (11/28, 12/5はChicago/CRC測定のためスキップ)
+- 12/12(金) 【河井】: 6章 6.5以降 ([slides](./materials/material_chap6_part2.pdf), [recording](https://eu01web.zoom.us/launch/csd?origin=https%3A%2F%2Fcern.zoom.us%2Frecording%2Fdetail%3Fmeeting_id%3D%252BbTXThSLS12OC1uWxQXwRg%253D%253D&option=%2BbTXThSLS12OC1uWxQXwRg%3D%3D) - Passcode: .2L&Q9N3)
+- 01/09(金) 【青柳】: 7章 7.3はスキップ
+- 01/16(金) 【中村】: 8章 8.3はスキップ
+- 01/23(金) 【渡邊】: 5章 5.4まで+5.5.6 (日程は未確認。来年でもよいと思う)
